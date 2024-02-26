@@ -28,7 +28,7 @@ DEBUG = True
 
 # Added my IP as an ALLOWED HOST due to the previous tutorial
 # using 127.0.0.1 and blocking getting this going.
-ALLOWED_HOSTS = ['192.168.86.186']
+ALLOWED_HOSTS = []
 
 
 # Application definition

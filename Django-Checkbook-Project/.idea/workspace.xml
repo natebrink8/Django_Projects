@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1621ecf2-d66c-4816-ab8d-7b78178eec37" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBirdBanking/Checkbook/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBirdBanking/Checkbook/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="1621ecf2-d66c-4816-ab8d-7b78178eec37" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowPython Packages.ShowToolbar": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ochob/Documents/Local_GitHub/Django_Projects/Django-Checkbook-Project",
+    "last_opened_file_path": "C:/Users/ochob/Documents/Local_GitHub/Django_Projects/DjangoUniversity",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
